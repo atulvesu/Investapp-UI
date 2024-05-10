@@ -1,9 +1,9 @@
 # InvestApp-UI
 
 
- ![image](https://github.com/atulvesu/Investapp-UI/assets/157306983/a4b300f0-0ae5-4c19-a25b-ef44a88ac7ed)
+![image](https://github.com/atulvesu/Investapp-UI/assets/157306983/ba5f577e-c990-4de3-868b-14fb7b967467)
 
- ![image](https://github.com/atulvesu/Investapp-UI/assets/157306983/f721c1a7-19bf-4a41-ae15-1eedeb851c1b)
+![image](https://github.com/atulvesu/Investapp-UI/assets/157306983/f721c1a7-19bf-4a41-ae15-1eedeb851c1b)
 
 ![image](https://github.com/atulvesu/Investapp-UI/assets/157306983/9cccbb0d-3b70-4ca7-be7d-d1441651e2a3)
 
